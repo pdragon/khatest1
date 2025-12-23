@@ -31,3 +31,4 @@ khamake linux --debug
 # Android (требуется Android SDK)
 khamake android --debug
 
+Так же внутри проекта должна быть папка содержащая Kha или локальная ссылка ведущая на папку с библиотекой Kha
